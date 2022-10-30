@@ -1,0 +1,18 @@
+div a img{
+    display: inline-block;
+    PADDING: 1%;
+}
+
+@media (max-width:768px){
+    div a img {
+        width: 100px;
+    }
+}
+
+
+#header-container{
+    background-color: #b5d214;
+    border-radius: 75px;
+    display: fixed;
+}
+
